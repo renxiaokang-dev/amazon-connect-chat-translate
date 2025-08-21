@@ -8,7 +8,7 @@
         "Ref": "UnauthRoleName"
     },
     "convertType": "translateText",
-    "sourceLang": "en",
+    "sourceLang": "zh",
     "targetLang": "de",
     "access": "auth"
 }
